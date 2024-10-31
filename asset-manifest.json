@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/AmiraliHB/Nahalit-project/static/css/main.02814e9d.css",
-    "main.js": "/AmiraliHB/Nahalit-project/static/js/main.f63e7057.js",
-    "static/js/453.7f10dc92.chunk.js": "/AmiraliHB/Nahalit-project/static/js/453.7f10dc92.chunk.js",
-    "static/media/nahal.png": "/AmiraliHB/Nahalit-project/static/media/nahal.4c867a08525a248cc447.png",
-    "static/media/Vazirmatn-Medium.ttf": "/AmiraliHB/Nahalit-project/static/media/Vazirmatn-Medium.69fe579d5c984c16172d.ttf",
-    "static/media/trustlogo.png": "/AmiraliHB/Nahalit-project/static/media/trustlogo.aef75b6c98f39b65986b.png",
-    "index.html": "/AmiraliHB/Nahalit-project/index.html",
-    "main.02814e9d.css.map": "/AmiraliHB/Nahalit-project/static/css/main.02814e9d.css.map",
-    "main.f63e7057.js.map": "/AmiraliHB/Nahalit-project/static/js/main.f63e7057.js.map",
-    "453.7f10dc92.chunk.js.map": "/AmiraliHB/Nahalit-project/static/js/453.7f10dc92.chunk.js.map"
+    "main.css": "/Nahalit-project/static/css/main.202d217a.css",
+    "main.js": "/Nahalit-project/static/js/main.dceabb0c.js",
+    "static/js/453.7f10dc92.chunk.js": "/Nahalit-project/static/js/453.7f10dc92.chunk.js",
+    "static/media/nahal.png": "/Nahalit-project/static/media/nahal.4c867a08525a248cc447.png",
+    "static/media/Vazirmatn-Medium.ttf": "/Nahalit-project/static/media/Vazirmatn-Medium.69fe579d5c984c16172d.ttf",
+    "static/media/trustlogo.png": "/Nahalit-project/static/media/trustlogo.aef75b6c98f39b65986b.png",
+    "index.html": "/Nahalit-project/index.html",
+    "main.202d217a.css.map": "/Nahalit-project/static/css/main.202d217a.css.map",
+    "main.dceabb0c.js.map": "/Nahalit-project/static/js/main.dceabb0c.js.map",
+    "453.7f10dc92.chunk.js.map": "/Nahalit-project/static/js/453.7f10dc92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02814e9d.css",
-    "static/js/main.f63e7057.js"
+    "static/css/main.202d217a.css",
+    "static/js/main.dceabb0c.js"
   ]
 }
